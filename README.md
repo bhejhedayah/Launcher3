@@ -1,5 +1,5 @@
 # Launcher3
-Launcher&lt;3 Project
+First open source android launcher (More feature will be added soon.)
 
 # License
 
