@@ -11,7 +11,7 @@ First open source android launcher (More feature will be added soon.)
 
 # TODO List
 
-- Add scrollbar wirh alphabeth
+- Add scrollbar with alphabeth
 - Add home screen shortcut
 - Add some animation
 
