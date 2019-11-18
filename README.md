@@ -1,6 +1,14 @@
 # Launcher3
 First open source android launcher (More feature will be added soon.)
 
+# Current Features
+
+[✓] On click menu
+
+[✓] Scrollbar
+
+[✓] Vertical app drawer
+
 # TODO List
 
 - Add scrollbar wirh alphabeth
