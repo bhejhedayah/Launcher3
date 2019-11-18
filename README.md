@@ -1,6 +1,11 @@
 # Launcher3
 First open source android launcher (More feature will be added soon.)
 
+# Screenshoot
+<p align="center">
+ <img src="https://github.com/bhejhedayah/Launcher3/blob/master/screenshoot.gif?raw=true" width="300px" />
+</p>
+
 # Current Features
 
 [✓] On click menu
