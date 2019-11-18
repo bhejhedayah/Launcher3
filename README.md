@@ -1,9 +1,15 @@
 # Launcher3
 First open source android launcher (More feature will be added soon.)
 
+# TODO List
+
+- Add scrollbar wirh alphabeth
+- Add home screen shortcut
+- Add some animation
+
 # License
 
-Copyright 2019 Bhe Jhe Dayah (Novo Indonesia)
+Copyright 2019 Bhe Jhe Dayah
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
